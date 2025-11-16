@@ -8,9 +8,15 @@
 
 <h3 align="center">Software Engineer | Full Stack Developer</h3>
 
-<p align="center">
-  <b>Follow to get new updates</b>
-</p>
+
+## 🧠 About Me  
+- 💻 Software Engineer & Full Stack Developer  
+- 🔧 Laravel – React – ASP.NET – SQL  
+- 🛢 PostgreSQL · MySQL · SQL Server  
+- 🎯 I focus on clean code & scalable applications  
+- 🚀 Always learning and improving  
+
+
 
 ---
 
@@ -58,42 +64,8 @@
   <img src="https://skillicons.dev/icons?i=docker" height="50" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jomhawia&theme=algolia&margin-w=10" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jomhawia&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomhawia&layout=compact&theme=tokyonight" height="160" />
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jomhawia&theme=tokyonight&hide_border=false" />
-</p>
-
----
-
-## 🧠 About Me  
-- 💻 Software Engineer & Full Stack Developer  
-- 🔧 Laravel – React – ASP.NET – SQL  
-- 🛢 PostgreSQL · MySQL · SQL Server  
-- 🎯 I focus on clean code & scalable applications  
-- 🚀 Always learning and improving  
 
 ---
 
 ## 📫 Contact  
-- 📧 Email: your-email@example.com  
-- 🌐 Portfolio: https://example.com/portfolio  
+- 📧 Email: jomhawia@gmail.com  
