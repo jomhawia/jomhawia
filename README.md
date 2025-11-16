@@ -1,6 +1,5 @@
 <!-- Badges Top -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Most%20Active%20User-Top%2010%25-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Software%20Engineer-Full%20Stack%20Developer-green?style=for-the-badge" />
 </p>
 
