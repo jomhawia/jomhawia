@@ -8,16 +8,6 @@
 
 <h3 align="center">Software Engineer | Full Stack Developer</h3>
 
-
-## 🧠 About Me  
-- 💻 Software Engineer & Full Stack Developer  
-- 🔧 Laravel – React – ASP.NET – SQL  
-- 🛢 PostgreSQL · MySQL · SQL Server  
-- 🎯 I focus on clean code & scalable applications  
-- 🚀 Always learning and improving  
-
-
-
 ---
 
 <p align="center">
@@ -32,6 +22,17 @@
     <img src="https://img.shields.io/badge/My%20Portfolio-1E88E5?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
+
+
+## 🧠 About Me  
+- 💻 Software Engineer & Full Stack Developer  
+- 🔧 Laravel – React – ASP.NET – SQL  
+- 🛢 PostgreSQL · MySQL · SQL Server  
+- 🎯 I focus on clean code & scalable applications  
+- 🚀 Always learning and improving  
+
+
+
 
 
 
